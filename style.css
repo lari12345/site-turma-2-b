@@ -55,3 +55,7 @@ body{
  .estudante-imagem{
     width: 120px;
  }
+ .estudante-texto{
+  font-size: 10px;
+  display:block;
+ }
