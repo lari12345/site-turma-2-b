@@ -59,3 +59,11 @@ body{
   font-size: 10px;
   display:block;
  }
+
+ .insta {
+    width: 12px;
+ }
+ .estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+ }
